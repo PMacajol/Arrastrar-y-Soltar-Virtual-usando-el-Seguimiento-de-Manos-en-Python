@@ -291,4 +291,10 @@ Cómo se creó:
 
 Se usó una fuente legible (HERSHEY_SIMPLEX) con tamaño y grosor moderados.
 El color blanco es visible en la mayoría de fondos.
-    
+
+
+
+VIDEO DEMOSTRATIVO:
+
+https://drive.google.com/file/d/1DZo7gtUS2_gvxIibRWSLZwajJ7KZeNS6/view?usp=sharing
+
